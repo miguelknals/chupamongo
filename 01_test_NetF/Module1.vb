@@ -1,7 +1,7 @@
 ﻿Module Module1
 
     Sub Main()
-        Console.WriteLine("Helo!")
+        Console.WriteLine("Hello!")
         Console.ReadLine()
 
     End Sub
